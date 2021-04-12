@@ -1,4 +1,4 @@
-Comunicação via RPC com Server em Java e Client em Python
+Comunicação via Socket com Server em Java e Client em Python
 
 Um banco concederá um crédito especial aos seus clientes, variável com o saldo
 médio no último ano. Faça um programa que leia o saldo médio de um cliente e
